@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GligaDumitru/robos-react/static/css/main.065b85bc.chunk.css",
+    "main.js": "/GligaDumitru/robos-react/static/js/main.9ef47814.chunk.js",
+    "main.js.map": "/GligaDumitru/robos-react/static/js/main.9ef47814.chunk.js.map",
+    "runtime-main.js": "/GligaDumitru/robos-react/static/js/runtime-main.465134ee.js",
+    "runtime-main.js.map": "/GligaDumitru/robos-react/static/js/runtime-main.465134ee.js.map",
+    "static/js/2.bf66b04e.chunk.js": "/GligaDumitru/robos-react/static/js/2.bf66b04e.chunk.js",
+    "static/js/2.bf66b04e.chunk.js.map": "/GligaDumitru/robos-react/static/js/2.bf66b04e.chunk.js.map",
+    "index.html": "/GligaDumitru/robos-react/index.html",
+    "precache-manifest.1a5272d841c239ab26a15d155e93b821.js": "/GligaDumitru/robos-react/precache-manifest.1a5272d841c239ab26a15d155e93b821.js",
+    "service-worker.js": "/GligaDumitru/robos-react/service-worker.js",
+    "static/css/main.065b85bc.chunk.css.map": "/GligaDumitru/robos-react/static/css/main.065b85bc.chunk.css.map",
+    "static/js/2.bf66b04e.chunk.js.LICENSE": "/GligaDumitru/robos-react/static/js/2.bf66b04e.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.465134ee.js",
+    "static/js/2.bf66b04e.chunk.js",
+    "static/css/main.065b85bc.chunk.css",
+    "static/js/main.9ef47814.chunk.js"
+  ]
+}
